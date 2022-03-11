@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a73de54f8b07043c9be6bca9e4b88635, type: 3}
+  m_Name: NewYork
+  m_EditorClassIdentifier: 
+  description: "Its comprises 5 boroughs sitting where the Hudson River meets the
+    Atlantic Ocean. At its core is Manhattan, a densely populated borough that\u2019s
+    among the world\u2019s major commercial, financial and cultural centers. Its
+    iconic sites include skyscrapers such as the Empire State Building and sprawling
+    Central Park. Broadway theater is staged in neon-lit Times Square"
+  artwork: {fileID: 21300000, guid: afb2cb91326234980b5490128ec8c7e5, type: 3}

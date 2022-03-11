@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a73de54f8b07043c9be6bca9e4b88635, type: 3}
+  m_Name: Glasgow
+  m_EditorClassIdentifier: 
+  description: "It is a port city on the River Clyde in Scotland's western Lowlands.
+    It's famed for its Victorian and art nouveau architecture, a rich legacy of the
+    city's 18th\u201320th-century prosperity due to trade and shipbuilding. Today
+    it's a national cultural hub, home to institutions including the Scottish Opera,
+    Scottish Ballet and National Theatre of Scotland, as well as acclaimed museums
+    and a thriving music scene."
+  artwork: {fileID: 21300000, guid: a35f5c80751494a218417dc0f1a23483, type: 3}
